@@ -1,0 +1,8 @@
+title: Attack Rando
+originalAuthor: Zurphing
+description: Randomize Sora & his drive forms attacks among themselves. Rerandomizes upon room transition.
+assets:
+- name: scripts/AttackRando.lua
+  method: copy
+  source:
+  - name: AttackRando.lua
